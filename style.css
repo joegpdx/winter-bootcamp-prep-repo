@@ -3,30 +3,30 @@
 }
 
 body {
-    background-image: url('http://www.placekitten.com/600/900');
-    background: lightpink;
+    background-image: url('http://www.placekitten.com/300/300');
+    background: lightblue;
+    text-align: center;
+}
+header {
+    
+}
+
+title {
+    font-size:14px;
+    height:50px;
 }
 
 h2 {
-    color: pink;
+    color: green;
     font-size: 40px;
     font-style: italic;
-}
-
-p {
-    color: blue;
-}
-
-li {
-    color: red;
-    list-style: none;
 }
 
 .cool {
     color: lightblue;
 }
 .square {
-    text-align: rig;
+    text-align: center;
     height: 250px;
     width: 250px;
     border-radius: 15px;
@@ -43,19 +43,6 @@ li {
     background: blue;
 }
 
-* {
-    box-sizing: border-box;
-}
-body {
-    background-image: url('http://www.placekitten.com/300/300');
-    background: lightpink;
-    text-align: right;
-}
-h2 {
-    color: pink;
-    font-size: 40px;
-    font-style: italic;
-}
 p {
     color: blue;
 }
