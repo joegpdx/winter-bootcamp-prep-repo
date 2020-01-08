@@ -1,6 +1,6 @@
 # winter-bootcamp-prep-repo
 
-_some italic text_
+some italic text
 
 1. so
 1. you
@@ -10,6 +10,5 @@ _some italic text_
 
 this is a code block 'for example'
 
-'''javascript
+javascript
 some function()
-'''
