@@ -1,0 +1,24 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url('http://www.placekitten.com/600/900');
+    background: lightpink;
+}
+
+h2 {
+    color: pink;
+    font-size: 40px;
+    font-style: italic;
+}
+
+p {
+    color: blue
+}
+
+li {
+    color: red
+    list-style: none;
+}
+

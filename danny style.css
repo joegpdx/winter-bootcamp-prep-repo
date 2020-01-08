@@ -1,0 +1,97 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    background-image: url('http://www.placekitten.com/300/300');
+    background: lightpink;
+    text-align: right;
+}
+h2 {
+    color: pink;
+    font-size: 40px;
+    font-style: italic;
+}
+p {
+    color: blue
+}
+li {
+    color: red;
+    list-style: none;
+    display: inline-block;
+}
+ul {
+    display: inline-block;
+}
+#special {
+    color: green;
+    font-size: 20px;
+}
+.cool {
+    color: lightblue;
+}
+.square {
+    text-align: rig;
+    height: 250px;
+    width: 250px;
+    border-radius: 15px;
+    background: yellow;
+    border: dotted lightseagreen 5px;
+    margin: 0 auto;
+    padding: 40px;
+    color: orange;
+}
+#cool-square {
+    background: red;
+}
+#uncool-square {
+    background: blue;
+}
+
+* {
+    box-sizing: border-box;
+}
+body {
+    background-image: url('http://www.placekitten.com/300/300');
+    background: lightpink;
+    text-align: right;
+}
+h2 {
+    color: pink;
+    font-size: 40px;
+    font-style: italic;
+}
+p {
+    color: blue
+}
+li {
+    color: red;
+    list-style: none;
+    display: inline-block;
+}
+ul {
+    display: inline-block;
+}
+#special {
+    color: green;
+    font-size: 20px;
+}
+.cool {
+    color: lightblue;
+}
+.square {
+    text-align: rig;
+    height: 250px;
+    width: 250px;
+    border-radius: 15px;
+    background: yellow;
+    border: dotted lightseagreen 5px;
+    margin: 0 auto;
+    padding: 40px;
+    color: orange;
+}
+#cool-square {
+    background: red;
+}
+#uncool-square {
+    background: blue;
+}
