@@ -1,0 +1,8 @@
+* {
+    box-sizing: border-box
+}
+
+#image-size {
+    width: 500px;
+    height: 300px;
+}

@@ -4,10 +4,10 @@
 
 .nametag {
     width: 500px;
-    height: 400px;
+    height: 300px;
     border: solid black;
     border-radius: 25px;
-    background-color: red;
+    background-color:lightblue;
 }
 
 .words {
@@ -16,15 +16,17 @@
     text-transform: uppercase;
     text-align: center;
 }
-
+.hello {
+    font-size: 65px;
+}
 .my-name-is {
     font-size: 25px;
 }
 
 .front {
     position: relative;
-    top: 45px;
-    height: 190px;
+    top: 3px;
+    height: 100px;
     background-color: white;
     text-align: center;
     font-size: 3rem;
